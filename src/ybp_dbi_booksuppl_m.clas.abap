@@ -1,0 +1,5 @@
+CLASS ybp_dbi_booksuppl_m DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF ydbi_travel_m.
+ENDCLASS.
+
+CLASS ybp_dbi_booksuppl_m IMPLEMENTATION.
+ENDCLASS.
